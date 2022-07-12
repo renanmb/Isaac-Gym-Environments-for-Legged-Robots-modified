@@ -1,4 +1,5 @@
-# Isaac Gym Environments for Legged Robots #
+# Isaac Gym Environments for Legged Robots (modified) #
+Forked from Erwin Coumans https://github.com/erwincoumans/legged_gym . Trying to learn, implement and modify in order to add more features and more robots.
 This repository provides the environment used to train ANYmal (and other robots) to walk on rough terrain using NVIDIA's Isaac Gym.
 It includes all components needed for sim-to-real transfer: actuator network, friction & mass randomization, noisy observations and random pushes during training.  
 **Maintainer**: Nikita Rudin  
